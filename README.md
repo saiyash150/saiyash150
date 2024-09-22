@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Yashwanth</h1>
-<h3 align="center">A dream achiever in progress</h3>
-<img align="right" alt="Coding" width="350" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHNBL_zznudXwwXglBeFGZ-frhpaZJtHeg&usqp=CAU"/>
+<h3 align="center">A Dream achiever in progress</h3>
+<img align="right" alt="Coding" width="350" height="400" src="https://images.unsplash.com/photo-1513918596785-a2fcc5a5d302?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 - 🌱 I’m currently Looking for Opportunity
 
-- 💬 Ask me about **python**
+- 💬 Passionate about **Full stack development**
 
 - 📫 How to reach me **saipandu@gmail.com**
 
