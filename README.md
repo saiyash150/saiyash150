@@ -2,7 +2,7 @@
 <h3 align="center">A dream achiever in progress</h3>
 <img align="right" alt="Coding" width="350" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHNBL_zznudXwwXglBeFGZ-frhpaZJtHeg&usqp=CAU"/>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently Looking for Opportunity
 
 - 💬 Ask me about **python**
 
