@@ -48,10 +48,14 @@ I am a **Full Stack Developer** and **React Native Enthusiast**, currently worki
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Trying For Opportunity
 - Advanced React Native
 - Full Stack Development
+- Python Development
 
 ### 📫 How to reach me
-- Email: saiyash150@example.com
-- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- Email: saiyash150@gmail.com
+- [LinkedIn](www.linkedin.com/in/
+gvn-sai-yashwanth/
+
+)
